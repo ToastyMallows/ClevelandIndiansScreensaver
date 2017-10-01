@@ -1,0 +1,98 @@
+GOTRIBE ScreenSaver
+Version 1.0 (Oct 1995)
+
+This application utilises the AnySaver Generic Screen Saver
+by JourneyWare Media.
+The animation was created by Tony Short at AIT Limited
+using Macromedia Director 4.0 for Windows.
+The Indians logo and logotype are Trademarks of the Cleveland
+Indians baseball team.
+GOTRIBE.EXE is freeware, no money should be charged for its use,
+JWGENSS.SCR is shareware, (see details below).
+
+Go Tribe!
+
+
+
+System Requirements
+-------------------
+
+To run the AnySaver Generic Screen Saver, you need:
+
+- Windows 3.1
+- At least 2MB of RAM
+- 40KB on your hard disk drive.
+
+
+Installation Instructions
+-------------------------
+
+1. Copy the JWGENSS.SCR and the GOTRIBE.EXE
+into your C:\WINDOWS directory.
+
+2. If Windows is not already running, start it.
+
+3. Select the Control Panel icon in the Main program
+group on the Windows Desktop, then select the Desktop icon. 
+AnySaver Generic SS appears conveniently near the top of 
+the screen saver list. Select it and set the delay time. 
+Click on Setup to specify the application you wish to run 
+as your screen saver.
+
+The Setup Dialog Box contains only one field that 
+you need to fill in:
+
+Type in C:\WINDOWS\GOTRIBE.EXE  and choose OK.
+
+4. That's it, it's installed, just wait!
+
+
+Known Bugs
+------------
+The screensaver does not like to run while Director 4.0 for Windows
+is running, so don't try it!
+
+
+Uninstalling
+------------
+
+Simply delete the files JWGENSS.SCR and GOTRIBE.EXE from 
+your WINDOWS directory. 
+
+
+Copyright Notice
+----------------
+
+The AnySaver Generic Screen Saver is copyright 
+(c) JourneyWare Media, 1994.
+
+
+Shareware Notice
+----------------
+
+The software is supplied for your own personal 
+use. It may not, however, be used for commercial 
+purposes. For commercial use or redistribution, 
+please contact JourneyWare Media at 72762,50 
+(CompuServe) or 72762.50@compuserve.com 
+(Internet).
+
+Help us continue maintaining this shareware
+(and other neat stuff) on public libraries by 
+registering your copy. Registering this shareware 
+carries no tangible benefits other than the 
+satisfaction of helping software developers 
+continue to do our thing without too much of
+a hassle from the corporate weenies. To register 
+your copy, please send a check for $5.00 to:
+
+	Shareware Division
+	Attn: VP in Charge of Sitting
+	  Next to the Door
+	JourneyWare Media
+	PO Box 6846
+	Moraga, CA 94570-6846
+
+Use the AnySaver Generic Screen Saver at your own 
+risk. The software is supplied without warranty of 
+any kind.
